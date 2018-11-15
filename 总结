@@ -1,0 +1,4 @@
+安装4.14.81内核启动报错，没找到签名。
+```
+bios中开启secure boot   或者关闭cgroup检查签名grub2-editenv - set check_signatures=no
+```
