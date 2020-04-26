@@ -1,5 +1,4 @@
 # git分之
----
 
 > master #主干（保护分之）禁止直接push，走merge request（PR）流程，只接收develop分之的PR合并
 
